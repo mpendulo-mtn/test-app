@@ -1,0 +1,22 @@
+{
+  "_pleaseNote": "Auto generated file for future use. Please do not edit",
+  "project": {
+    "name": "test-app",
+    "description": "fa-cards application",
+    "title": "",
+    "author": "MTN Kente",
+    "adoTaskNumber": "ADS-201",
+    "features": {
+      "registeredInAppStore": false,
+      "semanticRelease": false,
+      "repoName": "test-app"
+    },
+    "template": "fa-template"
+  },
+  "runtime": {
+    "cli": "1.0.0",
+    "node": "v20.11.1",
+    "path": "test-app"
+  },
+  "version": "1.0.0"
+}
